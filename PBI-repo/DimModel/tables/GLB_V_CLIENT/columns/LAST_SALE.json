@@ -1,0 +1,30 @@
+{
+  "name": "LAST_SALE",
+  "dataType": "string",
+  "sourceColumn": "LAST_SALE",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "951e0e3f-abd1-43ac-854a-b6c8712a7543",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "LAST_SALE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz LAST sale\",\"en-US\":\"en LAST sale\"}"
+    }
+  ]
+}

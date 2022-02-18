@@ -1,0 +1,30 @@
+{
+  "name": "MOBILE_PHONE",
+  "dataType": "double",
+  "sourceColumn": "MOBILE_PHONE",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "a2310aab-2d18-4f7f-8cd4-f08d41f17beb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "MOBILE_PHONE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz mobile phone\",\"en-US\":\"en mobile phone\"}"
+    }
+  ]
+}

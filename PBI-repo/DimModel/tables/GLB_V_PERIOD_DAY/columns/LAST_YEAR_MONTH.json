@@ -1,0 +1,26 @@
+{
+  "name": "LAST_YEAR_MONTH",
+  "dataType": "string",
+  "sourceColumn": "LAST_YEAR_MONTH",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "eb6ebfb0-db11-4864-a753-727984de4f0d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz LAST YEAR MONTH\",\"en-US\":\"en LAST YEAR MONTH\"}"
+    }
+  ]
+}

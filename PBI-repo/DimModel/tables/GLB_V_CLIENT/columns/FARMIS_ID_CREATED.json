@@ -1,0 +1,30 @@
+{
+  "name": "FARMIS_ID_CREATED",
+  "dataType": "double",
+  "sourceColumn": "FARMIS_ID_CREATED",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "9bf3fabc-1e7d-4325-b0ee-84d708e4166a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "FARMIS_ID_CREATED"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz farmis ID created\",\"en-US\":\"en farmis ID created\"}"
+    }
+  ]
+}

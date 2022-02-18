@@ -1,0 +1,30 @@
+{
+  "name": "AGE",
+  "dataType": "double",
+  "sourceColumn": "AGE",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "9abcf412-4609-43d9-b52a-b6e94f058fba",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "AGE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz age\",\"en-US\":\"en age\"}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "AGREEMENT_CP_EMAIL",
+  "dataType": "string",
+  "sourceColumn": "AGREEMENT_CP_EMAIL",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "c124f467-ad94-4b33-a609-556e796ea2d1",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "AGREEMENT_CP_EMAIL"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz agreement cp email\",\"en-US\":\"en agreement cp email\"}"
+    }
+  ]
+}

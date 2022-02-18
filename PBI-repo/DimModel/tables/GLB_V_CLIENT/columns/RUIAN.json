@@ -1,0 +1,26 @@
+{
+  "name": "RUIAN",
+  "dataType": "double",
+  "sourceColumn": "RUIAN",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "6c2aee21-106f-43a3-94b9-02cad8b078cf",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz ruian\",\"en-US\":\"en ruian\"}"
+    }
+  ]
+}

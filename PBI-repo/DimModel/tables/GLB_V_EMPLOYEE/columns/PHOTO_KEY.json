@@ -1,0 +1,26 @@
+{
+  "name": "PHOTO_KEY",
+  "dataType": "double",
+  "sourceColumn": "PHOTO_KEY",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "5e7d39fc-7507-4533-9f24-a9cb4c2db656",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz photo KEY\",\"en-US\":\"en photo KEY\"}"
+    }
+  ]
+}

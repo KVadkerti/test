@@ -1,0 +1,30 @@
+{
+  "name": "TURNOVER_TYPE",
+  "dataType": "string",
+  "sourceColumn": "TURNOVER_TYPE",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "88ca7ad3-454e-4d56-ab63-09d984a96c5d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "TURNOVER_TYPE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz turnover TYPE\",\"en-US\":\"en turnover TYPE\"}"
+    }
+  ]
+}

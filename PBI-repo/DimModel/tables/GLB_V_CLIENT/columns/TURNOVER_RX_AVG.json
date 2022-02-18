@@ -1,0 +1,30 @@
+{
+  "name": "TURNOVER_RX_AVG",
+  "dataType": "double",
+  "sourceColumn": "TURNOVER_RX_AVG",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "8d70f73a-46c8-4301-b013-32b192cf537d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "TURNOVER_RX_AVG"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz turnover rx AVG\",\"en-US\":\"en turnover rx AVG\"}"
+    }
+  ]
+}

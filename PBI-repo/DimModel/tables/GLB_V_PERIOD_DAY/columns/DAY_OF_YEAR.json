@@ -1,0 +1,26 @@
+{
+  "name": "DAY_OF_YEAR",
+  "dataType": "double",
+  "sourceColumn": "DAY_OF_YEAR",
+  "sourceProviderType": "Int16",
+  "lineageTag": "fdd896b3-dc61-4c3d-a9bd-18987cf63ad9",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz DAY OF YEAR\",\"en-US\":\"en DAY OF YEAR\"}"
+    }
+  ]
+}

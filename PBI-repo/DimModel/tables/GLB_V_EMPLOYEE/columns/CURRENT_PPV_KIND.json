@@ -1,0 +1,30 @@
+{
+  "name": "CURRENT_PPV_KIND",
+  "dataType": "string",
+  "sourceColumn": "CURRENT_PPV_KIND",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "f74b62b3-7236-4bfd-9a1a-704ccf773463",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CURRENT_PPV_KIND"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz CURRENT ppv kind\",\"en-US\":\"en CURRENT ppv kind\"}"
+    }
+  ]
+}

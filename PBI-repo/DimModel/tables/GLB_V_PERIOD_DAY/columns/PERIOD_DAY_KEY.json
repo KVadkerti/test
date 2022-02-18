@@ -1,0 +1,29 @@
+{
+  "name": "PERIOD_DAY_KEY",
+  "dataType": "dateTime",
+  "isKey": true,
+  "isNullable": false,
+  "sourceColumn": "PERIOD_DAY_KEY",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "9e7c78f7-d173-417a-a596-0e635f3f8609",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz PERIOD DAY KEY\",\"en-US\":\"en PERIOD DAY KEY\"}"
+    }
+  ]
+}

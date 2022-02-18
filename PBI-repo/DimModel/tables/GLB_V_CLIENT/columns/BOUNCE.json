@@ -1,0 +1,30 @@
+{
+  "name": "BOUNCE",
+  "dataType": "string",
+  "sourceColumn": "BOUNCE",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "c176ea16-86a0-4408-b196-c1e71583ebff",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "BOUNCE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz bounce\",\"en-US\":\"en bounce\"}"
+    }
+  ]
+}

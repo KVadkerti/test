@@ -1,0 +1,28 @@
+{
+  "name": "PERIOD_YEAR_ID",
+  "dataType": "dateTime",
+  "isNullable": false,
+  "sourceColumn": "PERIOD_YEAR_ID",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "60272b0d-102d-40a9-80e6-fe4e12275e9d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz PERIOD YEAR ID\",\"en-US\":\"en PERIOD YEAR ID\"}"
+    }
+  ]
+}

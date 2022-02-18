@@ -1,0 +1,27 @@
+{
+  "name": "VIP_STATUS_KEY",
+  "dataType": "double",
+  "isNullable": false,
+  "sourceColumn": "VIP_STATUS_KEY",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "fcbaf38f-c890-4ffb-9101-d5e79a4ec4ea",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz vip status KEY\",\"en-US\":\"en vip status KEY\"}"
+    }
+  ]
+}

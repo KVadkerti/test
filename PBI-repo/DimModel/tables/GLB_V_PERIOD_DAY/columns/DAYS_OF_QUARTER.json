@@ -1,0 +1,26 @@
+{
+  "name": "DAYS_OF_QUARTER",
+  "dataType": "double",
+  "sourceColumn": "DAYS_OF_QUARTER",
+  "sourceProviderType": "Int16",
+  "lineageTag": "b258e5af-89f6-4cf1-a18a-285d1bad0b33",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz DAYS OF quarter\",\"en-US\":\"en DAYS OF quarter\"}"
+    }
+  ]
+}

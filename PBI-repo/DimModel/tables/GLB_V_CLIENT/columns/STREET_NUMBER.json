@@ -1,0 +1,30 @@
+{
+  "name": "STREET_NUMBER",
+  "dataType": "string",
+  "sourceColumn": "STREET_NUMBER",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "73ba4e7b-1357-4d5d-a500-2130ef0e045d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "STREET_NUMBER"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz street NUMBER\",\"en-US\":\"en street NUMBER\"}"
+    }
+  ]
+}

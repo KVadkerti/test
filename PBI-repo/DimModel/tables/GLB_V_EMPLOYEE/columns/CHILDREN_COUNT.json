@@ -1,0 +1,30 @@
+{
+  "name": "CHILDREN_COUNT",
+  "dataType": "double",
+  "sourceColumn": "CHILDREN_COUNT",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "62be0c33-41c7-4098-aeb2-505ebaae73ed",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CHILDREN_COUNT"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz children COUNT\",\"en-US\":\"en children COUNT\"}"
+    }
+  ]
+}

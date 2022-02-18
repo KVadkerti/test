@@ -1,0 +1,30 @@
+{
+  "name": "AGE_GROUP",
+  "dataType": "double",
+  "sourceColumn": "AGE_GROUP",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "95873dce-cc19-4c58-b1b0-b2fc209e2abd",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "AGE_GROUP"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz age GROUP\",\"en-US\":\"en age GROUP\"}"
+    }
+  ]
+}

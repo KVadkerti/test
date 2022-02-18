@@ -1,0 +1,30 @@
+{
+  "name": "AVG_TURNOVER_CATEGORY",
+  "dataType": "double",
+  "sourceColumn": "AVG_TURNOVER_CATEGORY",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "9efdf553-d4af-4f23-b7c0-37cfbbdc0cd1",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "AVG_TURNOVER_CATEGORY"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz AVG turnover CATEGORY\",\"en-US\":\"en AVG turnover CATEGORY\"}"
+    }
+  ]
+}

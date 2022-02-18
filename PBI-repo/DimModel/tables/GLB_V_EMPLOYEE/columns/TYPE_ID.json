@@ -1,0 +1,30 @@
+{
+  "name": "TYPE_ID",
+  "dataType": "double",
+  "sourceColumn": "TYPE_ID",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "3977eabd-6e6c-43fb-acdf-7bafa2c9293d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "TYPE_ID"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz TYPE ID\",\"en-US\":\"en TYPE ID\"}"
+    }
+  ]
+}

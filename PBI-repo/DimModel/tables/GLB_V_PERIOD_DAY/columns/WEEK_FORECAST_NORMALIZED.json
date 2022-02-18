@@ -1,0 +1,26 @@
+{
+  "name": "WEEK_FORECAST_NORMALIZED",
+  "dataType": "double",
+  "sourceColumn": "WEEK_FORECAST_NORMALIZED",
+  "sourceProviderType": "Int16",
+  "lineageTag": "60c321be-45bb-4b67-9d0d-c6ef01e1bcc3",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz week forecast normalized\",\"en-US\":\"en week forecast normalized\"}"
+    }
+  ]
+}

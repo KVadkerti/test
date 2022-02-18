@@ -1,0 +1,28 @@
+{
+  "name": "EMPLOYEE_KEY",
+  "dataType": "double",
+  "isKey": true,
+  "isNullable": false,
+  "sourceColumn": "EMPLOYEE_KEY",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "ec31c434-4fe4-4737-8695-2c49f5297203",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz employee KEY\",\"en-US\":\"en employee KEY\"}"
+    }
+  ]
+}

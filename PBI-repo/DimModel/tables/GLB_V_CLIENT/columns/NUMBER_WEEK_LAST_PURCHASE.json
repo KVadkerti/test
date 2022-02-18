@@ -1,0 +1,30 @@
+{
+  "name": "NUMBER_WEEK_LAST_PURCHASE",
+  "dataType": "double",
+  "sourceColumn": "NUMBER_WEEK_LAST_PURCHASE",
+  "sourceProviderType": "Decimal(38, 0)",
+  "lineageTag": "c8be865d-ffba-4461-ab03-3ec8bc475a9f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "NUMBER_WEEK_LAST_PURCHASE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz NUMBER week LAST purchase\",\"en-US\":\"en NUMBER week LAST purchase\"}"
+    }
+  ]
+}

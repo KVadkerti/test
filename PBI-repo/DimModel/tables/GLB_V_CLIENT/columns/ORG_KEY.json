@@ -1,0 +1,27 @@
+{
+  "name": "ORG_KEY",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "ORG_KEY",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "4994c846-d21a-4c26-93db-b62fa4b2a2db",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz org KEY\",\"en-US\":\"en org KEY\"}"
+    }
+  ]
+}

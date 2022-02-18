@@ -1,0 +1,30 @@
+{
+  "name": "SURNAME",
+  "dataType": "string",
+  "sourceColumn": "SURNAME",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "76317b53-9f90-462f-96e1-a8dd45ecb550",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "SURNAME"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz surname\",\"en-US\":\"en surname\"}"
+    }
+  ]
+}

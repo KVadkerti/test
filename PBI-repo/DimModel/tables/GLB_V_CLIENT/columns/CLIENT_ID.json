@@ -1,0 +1,30 @@
+{
+  "name": "CLIENT_ID",
+  "dataType": "double",
+  "sourceColumn": "CLIENT_ID",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "9c32b84e-32d3-4842-a353-833a59d37ecb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CLIENT_ID"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz CLIENT ID\",\"en-US\":\"en CLIENT ID\"}"
+    }
+  ]
+}

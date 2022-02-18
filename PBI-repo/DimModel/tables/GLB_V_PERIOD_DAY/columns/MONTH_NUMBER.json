@@ -1,0 +1,26 @@
+{
+  "name": "MONTH_NUMBER",
+  "dataType": "double",
+  "sourceColumn": "MONTH_NUMBER",
+  "sourceProviderType": "Int16",
+  "lineageTag": "3e5d0094-917c-4f6a-a416-fdf8fc3409e3",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz MONTH NUMBER\",\"en-US\":\"en MONTH NUMBER\"}"
+    }
+  ]
+}

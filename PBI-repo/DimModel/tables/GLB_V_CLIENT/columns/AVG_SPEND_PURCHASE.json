@@ -1,0 +1,30 @@
+{
+  "name": "AVG_SPEND_PURCHASE",
+  "dataType": "double",
+  "sourceColumn": "AVG_SPEND_PURCHASE",
+  "sourceProviderType": "Decimal(38, 0)",
+  "lineageTag": "141ba880-1a72-4dc3-88ab-93a7819ceedd",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "AVG_SPEND_PURCHASE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz AVG spend purchase\",\"en-US\":\"en AVG spend purchase\"}"
+    }
+  ]
+}

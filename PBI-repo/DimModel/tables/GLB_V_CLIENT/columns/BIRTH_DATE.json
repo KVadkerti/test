@@ -1,0 +1,31 @@
+{
+  "name": "BIRTH_DATE",
+  "dataType": "dateTime",
+  "sourceColumn": "BIRTH_DATE",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "1a021c21-92af-429c-83b1-0634659110e4",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "BIRTH_DATE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz birth DATE\",\"en-US\":\"en birth DATE\"}"
+    }
+  ]
+}

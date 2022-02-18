@@ -1,0 +1,26 @@
+{
+  "name": "DAY_OF_WEEK",
+  "dataType": "double",
+  "sourceColumn": "DAY_OF_WEEK",
+  "sourceProviderType": "Int16",
+  "lineageTag": "c138e6b5-0d80-4a0f-987c-c8373064f17b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz DAY OF week\",\"en-US\":\"en DAY OF week\"}"
+    }
+  ]
+}

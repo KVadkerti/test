@@ -1,0 +1,31 @@
+{
+  "name": "RETIREMENT_DATE",
+  "dataType": "dateTime",
+  "sourceColumn": "RETIREMENT_DATE",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "fabb7dbf-7619-45b7-9a10-cdf0a2fced46",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "RETIREMENT_DATE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz retirement DATE\",\"en-US\":\"en retirement DATE\"}"
+    }
+  ]
+}

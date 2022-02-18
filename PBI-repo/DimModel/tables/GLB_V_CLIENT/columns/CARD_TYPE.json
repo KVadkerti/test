@@ -1,0 +1,30 @@
+{
+  "name": "CARD_TYPE",
+  "dataType": "string",
+  "sourceColumn": "CARD_TYPE",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "a12dae34-4e15-40ed-b5cf-7a4c8ce2740c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CARD_TYPE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz card TYPE\",\"en-US\":\"en card TYPE\"}"
+    }
+  ]
+}

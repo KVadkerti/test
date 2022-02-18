@@ -1,0 +1,30 @@
+{
+  "name": "COMPANY",
+  "dataType": "string",
+  "sourceColumn": "COMPANY",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "8c6806bc-0049-43ff-b6e0-e2039440d762",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "COMPANY"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz company\",\"en-US\":\"en company\"}"
+    }
+  ]
+}

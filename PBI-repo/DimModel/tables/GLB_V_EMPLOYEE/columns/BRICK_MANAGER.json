@@ -1,0 +1,30 @@
+{
+  "name": "BRICK_MANAGER",
+  "dataType": "string",
+  "sourceColumn": "BRICK_MANAGER",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "92f828c1-4c70-46fd-bc9b-6a5e32fb77c7",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "BRICK_MANAGER"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz brick MANAGER\",\"en-US\":\"en brick MANAGER\"}"
+    }
+  ]
+}

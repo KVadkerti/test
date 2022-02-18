@@ -1,0 +1,15 @@
+{
+  "name": "GLB_V_CLIENT-93e8d36f-c28c-4d9d-9c5c-4f77e4d67d09",
+  "mode": "directQuery",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Oracle.Database(\"//cldw.test.dwh.drmax.global/CLDW.test.dwh.drmax.global\", [HierarchicalNavigation=true]),",
+      "    CLDW_OPERATIONS = Source{[Schema=\"CLDW_OPERATIONS\"]}[Data],",
+      "    GLB_V_CLIENT1 = CLDW_OPERATIONS{[Name=\"GLB_V_CLIENT\"]}[Data]",
+      "in",
+      "    GLB_V_CLIENT1"
+    ]
+  }
+}

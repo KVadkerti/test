@@ -1,0 +1,30 @@
+{
+  "name": "ADDRESS_STATUS",
+  "dataType": "double",
+  "sourceColumn": "ADDRESS_STATUS",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "941cf7e4-bb41-4f88-9155-84a4b395c56d",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "ADDRESS_STATUS"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz address status\",\"en-US\":\"en address status\"}"
+    }
+  ]
+}

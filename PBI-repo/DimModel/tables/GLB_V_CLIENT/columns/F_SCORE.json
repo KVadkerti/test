@@ -1,0 +1,30 @@
+{
+  "name": "F_SCORE",
+  "dataType": "double",
+  "sourceColumn": "F_SCORE",
+  "sourceProviderType": "Decimal(38, 0)",
+  "lineageTag": "eaaf9ca7-fa21-484c-8a05-07a1ff0a245b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "F_SCORE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz F score\",\"en-US\":\"en F score\"}"
+    }
+  ]
+}

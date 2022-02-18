@@ -1,0 +1,31 @@
+{
+  "name": "MARITAL_STATUS_CHANGE_DATE",
+  "dataType": "dateTime",
+  "sourceColumn": "MARITAL_STATUS_CHANGE_DATE",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "692f56e3-8d9f-4095-a56e-5a33cf107034",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "MARITAL_STATUS_CHANGE_DATE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz marital status CHANGE DATE\",\"en-US\":\"en marital status CHANGE DATE\"}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "EMAIL_ACTIVITY",
+  "dataType": "double",
+  "sourceColumn": "EMAIL_ACTIVITY",
+  "sourceProviderType": "Decimal(38, 0)",
+  "lineageTag": "7ca6da3c-8b71-4898-901c-726a0ac403b5",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "EMAIL_ACTIVITY"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz email activity\",\"en-US\":\"en email activity\"}"
+    }
+  ]
+}

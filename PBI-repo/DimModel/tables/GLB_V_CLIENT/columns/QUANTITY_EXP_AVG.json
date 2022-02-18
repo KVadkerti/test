@@ -1,0 +1,30 @@
+{
+  "name": "QUANTITY_EXP_AVG",
+  "dataType": "double",
+  "sourceColumn": "QUANTITY_EXP_AVG",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "84a2f2d8-b65b-4cac-8adc-411ec5e83903",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "QUANTITY_EXP_AVG"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz quantity EXP AVG\",\"en-US\":\"en quantity EXP AVG\"}"
+    }
+  ]
+}

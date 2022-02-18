@@ -1,0 +1,30 @@
+{
+  "name": "RFM_SCORE",
+  "dataType": "double",
+  "sourceColumn": "RFM_SCORE",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "e4c0b059-9597-4ce7-b97c-5bf7bfcd62ca",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "RFM_SCORE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz rfm score\",\"en-US\":\"en rfm score\"}"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "CARD_CODE",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "CARD_CODE",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "13e11ede-c0ce-4176-9da1-701464e671ab",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CARD_CODE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz card code\",\"en-US\":\"en card code\"}"
+    }
+  ]
+}

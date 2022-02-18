@@ -1,0 +1,31 @@
+{
+  "name": "EMAIL_REG_NEW_REM_SEND_DATE",
+  "dataType": "dateTime",
+  "sourceColumn": "EMAIL_REG_NEW_REM_SEND_DATE",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "294abeb1-c26d-4e31-b109-238b73a84abf",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "EMAIL_REG_NEW_REM_SEND_DATE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz email reg NEW REM send DATE\",\"en-US\":\"en email reg NEW REM send DATE\"}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "PHONE_STATUS",
+  "dataType": "double",
+  "sourceColumn": "PHONE_STATUS",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "31a99129-aeae-407f-bf8d-0a72a3f0ca7f",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "PHONE_STATUS"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz phone status\",\"en-US\":\"en phone status\"}"
+    }
+  ]
+}

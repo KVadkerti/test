@@ -1,0 +1,30 @@
+{
+  "name": "LEADER",
+  "dataType": "string",
+  "sourceColumn": "LEADER",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "df6bf744-6f00-4da5-bd5e-66b7678c8299",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "LEADER"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz leader\",\"en-US\":\"en leader\"}"
+    }
+  ]
+}

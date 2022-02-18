@@ -1,0 +1,26 @@
+{
+  "name": "DAYS_OF_MONTH",
+  "dataType": "double",
+  "sourceColumn": "DAYS_OF_MONTH",
+  "sourceProviderType": "Int16",
+  "lineageTag": "6f34d383-e9a7-4272-9be3-11c046221f2a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz DAYS OF MONTH\",\"en-US\":\"en DAYS OF MONTH\"}"
+    }
+  ]
+}

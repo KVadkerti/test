@@ -1,0 +1,30 @@
+{
+  "name": "DISTRICT",
+  "dataType": "string",
+  "sourceColumn": "DISTRICT",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "edbb4574-2403-4224-938a-420222a5e3f9",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "DISTRICT"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz district\",\"en-US\":\"en district\"}"
+    }
+  ]
+}

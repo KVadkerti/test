@@ -1,0 +1,30 @@
+{
+  "name": "CLIENT_TYPE_GR_ID_RX_1",
+  "dataType": "double",
+  "sourceColumn": "CLIENT_TYPE_GR_ID_RX_1",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "74e8651a-f433-4b6a-a8a2-4b35d1f57eb3",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CLIENT_TYPE_GR_ID_RX_1"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz CLIENT TYPE gr ID rx 1\",\"en-US\":\"en CLIENT TYPE gr ID rx 1\"}"
+    }
+  ]
+}

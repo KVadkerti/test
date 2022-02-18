@@ -1,0 +1,30 @@
+{
+  "name": "BC_CHILDREN_1_NAME",
+  "dataType": "string",
+  "sourceColumn": "BC_CHILDREN_1_NAME",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "649d9ebc-10c8-48c2-bea6-4213f8510898",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "BC_CHILDREN_1_NAME"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz bc children 1 NAME\",\"en-US\":\"en bc children 1 NAME\"}"
+    }
+  ]
+}

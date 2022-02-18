@@ -1,0 +1,30 @@
+{
+  "name": "DOCTOR_HASH",
+  "dataType": "string",
+  "sourceColumn": "DOCTOR_HASH",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "b59aef6a-2012-4454-be1d-3dc933bf7c0b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "DOCTOR_HASH"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz doctor HASH\",\"en-US\":\"en doctor HASH\"}"
+    }
+  ]
+}

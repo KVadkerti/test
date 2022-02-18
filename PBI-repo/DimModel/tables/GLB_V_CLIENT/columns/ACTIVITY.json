@@ -1,0 +1,30 @@
+{
+  "name": "ACTIVITY",
+  "dataType": "string",
+  "sourceColumn": "ACTIVITY",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "ed1d250f-baff-4716-aa47-22c6f47c8fad",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "ACTIVITY"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz activity\",\"en-US\":\"en activity\"}"
+    }
+  ]
+}

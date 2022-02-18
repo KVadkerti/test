@@ -1,0 +1,30 @@
+{
+  "name": "SHORT_FUNCTION_NAME",
+  "dataType": "string",
+  "sourceColumn": "SHORT_FUNCTION_NAME",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "5132a0f6-c69f-4afc-b15e-0d9f872c06eb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "SHORT_FUNCTION_NAME"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz SHORT FUNCTION NAME\",\"en-US\":\"en SHORT FUNCTION NAME\"}"
+    }
+  ]
+}

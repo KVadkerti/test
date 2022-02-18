@@ -1,0 +1,30 @@
+{
+  "name": "BC_INFO2",
+  "dataType": "string",
+  "sourceColumn": "BC_INFO2",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "ab81bc30-7068-4689-babf-84fe04c9b16b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "BC_INFO2"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz bc info2\",\"en-US\":\"en bc info2\"}"
+    }
+  ]
+}

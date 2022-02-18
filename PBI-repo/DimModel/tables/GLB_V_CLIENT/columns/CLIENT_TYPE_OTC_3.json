@@ -1,0 +1,30 @@
+{
+  "name": "CLIENT_TYPE_OTC_3",
+  "dataType": "string",
+  "sourceColumn": "CLIENT_TYPE_OTC_3",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "613a15f8-2902-4343-a143-26d6c5ea61a6",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CLIENT_TYPE_OTC_3"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz CLIENT TYPE otc 3\",\"en-US\":\"en CLIENT TYPE otc 3\"}"
+    }
+  ]
+}

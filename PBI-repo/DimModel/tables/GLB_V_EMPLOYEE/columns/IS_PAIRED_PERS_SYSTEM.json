@@ -1,0 +1,26 @@
+{
+  "name": "IS_PAIRED_PERS_SYSTEM",
+  "dataType": "string",
+  "sourceColumn": "IS_PAIRED_PERS_SYSTEM",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "8af37cf7-7889-4057-b6c5-507ac61d5ecc",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz IS paired pers SYSTEM\",\"en-US\":\"en IS paired pers SYSTEM\"}"
+    }
+  ]
+}

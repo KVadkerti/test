@@ -1,0 +1,30 @@
+{
+  "name": "QUANTITY_EXP_RX",
+  "dataType": "double",
+  "sourceColumn": "QUANTITY_EXP_RX",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "bf6f3965-4cc0-4eb5-8286-c1a4e778a6f1",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "QUANTITY_EXP_RX"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz quantity EXP rx\",\"en-US\":\"en quantity EXP rx\"}"
+    }
+  ]
+}

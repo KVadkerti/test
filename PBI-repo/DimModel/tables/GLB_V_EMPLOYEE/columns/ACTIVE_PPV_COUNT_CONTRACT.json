@@ -1,0 +1,30 @@
+{
+  "name": "ACTIVE_PPV_COUNT_CONTRACT",
+  "dataType": "double",
+  "sourceColumn": "ACTIVE_PPV_COUNT_CONTRACT",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "3cd8da72-3b76-4737-8220-82c8c2b1ebde",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "ACTIVE_PPV_COUNT_CONTRACT"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz active ppv COUNT contract\",\"en-US\":\"en active ppv COUNT contract\"}"
+    }
+  ]
+}

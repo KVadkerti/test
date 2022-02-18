@@ -1,0 +1,31 @@
+{
+  "name": "CARD_ORIGIN_DATE",
+  "dataType": "dateTime",
+  "sourceColumn": "CARD_ORIGIN_DATE",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "054e8a1f-6f6a-4a1c-8020-56e5e1eef651",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CARD_ORIGIN_DATE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz card origin DATE\",\"en-US\":\"en card origin DATE\"}"
+    }
+  ]
+}

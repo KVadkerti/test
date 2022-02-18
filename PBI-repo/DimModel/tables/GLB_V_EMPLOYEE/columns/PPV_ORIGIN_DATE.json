@@ -1,0 +1,31 @@
+{
+  "name": "PPV_ORIGIN_DATE",
+  "dataType": "dateTime",
+  "sourceColumn": "PPV_ORIGIN_DATE",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "eab3e12b-fadb-4e3f-87a0-eafb0a763f61",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "PPV_ORIGIN_DATE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz ppv origin DATE\",\"en-US\":\"en ppv origin DATE\"}"
+    }
+  ]
+}

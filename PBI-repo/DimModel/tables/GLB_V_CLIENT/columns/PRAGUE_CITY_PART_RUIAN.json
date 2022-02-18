@@ -1,0 +1,30 @@
+{
+  "name": "PRAGUE_CITY_PART_RUIAN",
+  "dataType": "string",
+  "sourceColumn": "PRAGUE_CITY_PART_RUIAN",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "3b0d5404-3c0e-4245-aef2-8cd628db0ab2",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "PRAGUE_CITY_PART_RUIAN"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz prague city part ruian\",\"en-US\":\"en prague city part ruian\"}"
+    }
+  ]
+}

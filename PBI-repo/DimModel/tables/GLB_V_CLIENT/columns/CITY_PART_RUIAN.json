@@ -1,0 +1,30 @@
+{
+  "name": "CITY_PART_RUIAN",
+  "dataType": "string",
+  "sourceColumn": "CITY_PART_RUIAN",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "1c6600c6-b7ea-46e8-85d5-c57862ae2601",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CITY_PART_RUIAN"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz city part ruian\",\"en-US\":\"en city part ruian\"}"
+    }
+  ]
+}

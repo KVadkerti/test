@@ -1,0 +1,30 @@
+{
+  "name": "FIRST_NAME",
+  "dataType": "string",
+  "sourceColumn": "FIRST_NAME",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "9dd73466-b1f8-4b4d-ab00-7c4515c2b958",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "FIRST_NAME"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz FIRST NAME\",\"en-US\":\"en FIRST NAME\"}"
+    }
+  ]
+}

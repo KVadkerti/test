@@ -1,0 +1,39 @@
+{
+  "name": "7647c296-964a-4692-8ab5-99e36deeb8e2",
+  "compatibilityLevel": 1550,
+  "model": {
+    "culture": "en-US",
+    "dataAccessOptions": {
+      "legacyRedirects": true,
+      "returnErrorValuesAsNull": true
+    },
+    "defaultPowerBIDataSourceVersion": "powerBI_V3",
+    "sourceQueryCulture": "cs-CZ",
+    "annotations": [
+      {
+        "name": "PBIDesktopVersion",
+        "value": "2.100.785.0 (21.12)"
+      },
+      {
+        "name": "PBI_QueryOrder",
+        "value": "[\"GLB_V_PRODUCT\",\"GLB_V_PHARMACY\",\"GLB_V_PERIOD_DAY\",\"GLB_V_CLIENT\",\"GLB_V_EMPLOYEE\",\"GLB_V_SUPPLIER\",\"GLB_V_TRANSFER_TYPE\",\"GLB_V_TRANSFER_TYPE_2\",\"GLB_V_TRANSACTION_TYPE_MAP\"]"
+      },
+      {
+        "name": "__PBI_TimeIntelligenceEnabled",
+        "value": "1"
+      },
+      {
+        "name": "TabularEditor_SerializeOptions",
+        "value": "{\"IgnoreInferredObjects\":true,\"IgnoreInferredProperties\":true,\"IgnoreTimestamps\":true,\"SplitMultilineStrings\":true,\"PrefixFilenames\":false,\"LocalTranslations\":true,\"LocalPerspectives\":true,\"LocalRelationships\":true,\"Levels\":[\"Data Sources\",\"Roles\",\"Shared Expressions\",\"Tables\",\"Tables/Annotations\",\"Tables/Calculation Items\",\"Tables/Columns\",\"Tables/Hierarchies\",\"Tables/Measures\",\"Tables/Partitions\"]}"
+      },
+      {
+        "name": "TabularEditor_Cultures",
+        "value": "[\"cs-CZ\",\"en-US\"]"
+      },
+      {
+        "name": "TabularEditor_Perspectives",
+        "value": "[]"
+      }
+    ]
+  }
+}

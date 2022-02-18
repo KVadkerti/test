@@ -1,0 +1,30 @@
+{
+  "name": "SAVING_RX",
+  "dataType": "double",
+  "sourceColumn": "SAVING_RX",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "77c09403-990a-48e5-84b9-ff8e3f95b85e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "SAVING_RX"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz saving rx\",\"en-US\":\"en saving rx\"}"
+    }
+  ]
+}

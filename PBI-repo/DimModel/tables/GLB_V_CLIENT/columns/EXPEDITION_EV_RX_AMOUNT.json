@@ -1,0 +1,30 @@
+{
+  "name": "EXPEDITION_EV_RX_AMOUNT",
+  "dataType": "double",
+  "sourceColumn": "EXPEDITION_EV_RX_AMOUNT",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "85d75018-acd8-4db9-abbb-c856da1d8c8b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "EXPEDITION_EV_RX_AMOUNT"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz expedition ev rx amount\",\"en-US\":\"en expedition ev rx amount\"}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "SALUTATION_SURNAME",
+  "dataType": "string",
+  "sourceColumn": "SALUTATION_SURNAME",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "769c2af5-67fd-40e1-9cf1-0e390e02a2d0",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "SALUTATION_SURNAME"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz salutation surname\",\"en-US\":\"en salutation surname\"}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "AGREEMENT_ESHOP_EMAIL",
+  "dataType": "string",
+  "sourceColumn": "AGREEMENT_ESHOP_EMAIL",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "983834ea-9901-446c-b916-a6fdecafd9f4",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "AGREEMENT_ESHOP_EMAIL"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz agreement eshop email\",\"en-US\":\"en agreement eshop email\"}"
+    }
+  ]
+}

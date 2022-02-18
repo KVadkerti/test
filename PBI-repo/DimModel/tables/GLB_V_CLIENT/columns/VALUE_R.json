@@ -1,0 +1,30 @@
+{
+  "name": "VALUE_R",
+  "dataType": "double",
+  "sourceColumn": "VALUE_R",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "2bc3d96d-c3e1-46e3-9c84-1f5b4bd64e51",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "VALUE_R"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz VALUE R\",\"en-US\":\"en VALUE R\"}"
+    }
+  ]
+}

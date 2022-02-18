@@ -1,0 +1,28 @@
+{
+  "name": "PERIOD_QUARTER_ID",
+  "dataType": "dateTime",
+  "isNullable": false,
+  "sourceColumn": "PERIOD_QUARTER_ID",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "26703bca-9307-4303-872b-68dcde23296a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz PERIOD quarter ID\",\"en-US\":\"en PERIOD quarter ID\"}"
+    }
+  ]
+}

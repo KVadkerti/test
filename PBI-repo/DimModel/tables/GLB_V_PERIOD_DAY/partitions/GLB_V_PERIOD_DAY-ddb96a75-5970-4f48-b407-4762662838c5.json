@@ -1,0 +1,17 @@
+{
+  "name": "GLB_V_PERIOD_DAY-ddb96a75-5970-4f48-b407-4762662838c5",
+  "mode": "directQuery",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Oracle.Database(\"//cldw.test.dwh.drmax.global/CLDW.test.dwh.drmax.global\", [HierarchicalNavigation=true]),",
+      "    CLDW_OPERATIONS = Source{[Schema=\"CLDW_OPERATIONS\"]}[Data],",
+      "    GLB_V_PERIOD_DAY1 = CLDW_OPERATIONS{[Name=\"GLB_V_PERIOD_DAY\"]}[Data],",
+      "    #\"Filtered Rows\" = Table.SelectRows(GLB_V_PERIOD_DAY1, each [PERIOD_DAY_KEY] < #datetime(2024, 12, 31, 0, 0, 0) and [PERIOD_DAY_KEY] > #datetime(1900, 1, 1, 0, 0, 0)),",
+      "    #\"Removed Columns\" = Table.RemoveColumns(#\"Filtered Rows\",{\"DATE_CHAR\"})",
+      "in",
+      "    #\"Removed Columns\""
+    ]
+  }
+}

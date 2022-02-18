@@ -1,0 +1,30 @@
+{
+  "name": "USER_ID",
+  "dataType": "double",
+  "sourceColumn": "USER_ID",
+  "sourceProviderType": "Decimal(38, 0)",
+  "lineageTag": "447289a4-2d85-4540-b0bc-a05157fe88de",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "USER_ID"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz USER ID\",\"en-US\":\"en USER ID\"}"
+    }
+  ]
+}

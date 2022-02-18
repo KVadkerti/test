@@ -1,0 +1,30 @@
+{
+  "name": "POSTAL_CODE",
+  "dataType": "string",
+  "sourceColumn": "POSTAL_CODE",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "95a51077-0596-42bc-b3ae-32ed86e49e59",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "POSTAL_CODE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz postal code\",\"en-US\":\"en postal code\"}"
+    }
+  ]
+}

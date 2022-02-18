@@ -1,0 +1,15 @@
+{
+  "name": "GLB_V_EMPLOYEE-0adea887-92ee-4865-9ae3-c9a3de66c97b",
+  "mode": "directQuery",
+  "source": {
+    "type": "m",
+    "expression": [
+      "let",
+      "    Source = Oracle.Database(\"//cldw.test.dwh.drmax.global/CLDW.test.dwh.drmax.global\", [HierarchicalNavigation=true]),",
+      "    CLDW_OPERATIONS = Source{[Schema=\"CLDW_OPERATIONS\"]}[Data],",
+      "    GLB_V_EMPLOYEE1 = CLDW_OPERATIONS{[Name=\"GLB_V_EMPLOYEE\"]}[Data]",
+      "in",
+      "    GLB_V_EMPLOYEE1"
+    ]
+  }
+}

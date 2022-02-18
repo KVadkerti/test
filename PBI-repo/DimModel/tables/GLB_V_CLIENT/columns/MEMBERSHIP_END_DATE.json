@@ -1,0 +1,31 @@
+{
+  "name": "MEMBERSHIP_END_DATE",
+  "dataType": "dateTime",
+  "sourceColumn": "MEMBERSHIP_END_DATE",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "519ab1fa-11da-482b-9f4a-563de34c451e",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "MEMBERSHIP_END_DATE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz membership END DATE\",\"en-US\":\"en membership END DATE\"}"
+    }
+  ]
+}

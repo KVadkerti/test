@@ -1,0 +1,30 @@
+{
+  "name": "EMPLOYEE_ID",
+  "dataType": "double",
+  "sourceColumn": "EMPLOYEE_ID",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "ac610c53-8f98-4df6-bf57-84cf58f5f6fa",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "EMPLOYEE_ID"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz employee ID\",\"en-US\":\"en employee ID\"}"
+    }
+  ]
+}

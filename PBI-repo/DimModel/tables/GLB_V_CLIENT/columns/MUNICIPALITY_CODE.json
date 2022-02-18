@@ -1,0 +1,26 @@
+{
+  "name": "MUNICIPALITY_CODE",
+  "dataType": "double",
+  "sourceColumn": "MUNICIPALITY_CODE",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "82ae87f6-ca55-40c9-9b0a-a94f7d3cb6db",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz municipality code\",\"en-US\":\"en municipality code\"}"
+    }
+  ]
+}

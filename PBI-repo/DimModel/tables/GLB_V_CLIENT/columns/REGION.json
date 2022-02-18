@@ -1,0 +1,30 @@
+{
+  "name": "REGION",
+  "dataType": "string",
+  "sourceColumn": "REGION",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "2a293d6f-a797-4689-9d5f-bcf8c8bdfcde",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "REGION"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz region\",\"en-US\":\"en region\"}"
+    }
+  ]
+}

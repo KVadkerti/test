@@ -1,0 +1,30 @@
+{
+  "name": "SAVING_TOTAL",
+  "dataType": "double",
+  "sourceColumn": "SAVING_TOTAL",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "d0065695-5dd7-4ff1-a8a6-532b0b320efd",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "SAVING_TOTAL"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz saving total\",\"en-US\":\"en saving total\"}"
+    }
+  ]
+}

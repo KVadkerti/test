@@ -1,0 +1,28 @@
+{
+  "name": "CLIENT_KEY",
+  "dataType": "double",
+  "isKey": true,
+  "isNullable": false,
+  "sourceColumn": "CLIENT_KEY",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "e55fb449-454f-44c4-b683-cb944d5c314b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz CLIENT KEY\",\"en-US\":\"en CLIENT KEY\"}"
+    }
+  ]
+}

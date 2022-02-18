@@ -1,0 +1,26 @@
+{
+  "name": "HOLIDAY",
+  "dataType": "string",
+  "sourceColumn": "HOLIDAY",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "2cc28cf6-38c7-4315-9967-ba9840ed0357",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz holiday\",\"en-US\":\"en holiday\"}"
+    }
+  ]
+}

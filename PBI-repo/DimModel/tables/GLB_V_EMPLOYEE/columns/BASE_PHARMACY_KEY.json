@@ -1,0 +1,26 @@
+{
+  "name": "BASE_PHARMACY_KEY",
+  "dataType": "double",
+  "sourceColumn": "BASE_PHARMACY_KEY",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "5c2b31dc-0c91-4893-ac63-d60099e5d4d3",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz base pharmacy KEY\",\"en-US\":\"en base pharmacy KEY\"}"
+    }
+  ]
+}

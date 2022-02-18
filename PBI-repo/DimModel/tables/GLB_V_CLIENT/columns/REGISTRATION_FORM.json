@@ -1,0 +1,30 @@
+{
+  "name": "REGISTRATION_FORM",
+  "dataType": "string",
+  "sourceColumn": "REGISTRATION_FORM",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "58e5a9cc-e3bc-4257-92d8-3793ee7bfd95",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "REGISTRATION_FORM"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz registration FORM\",\"en-US\":\"en registration FORM\"}"
+    }
+  ]
+}

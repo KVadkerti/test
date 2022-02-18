@@ -1,0 +1,30 @@
+{
+  "name": "TURNOVER_EXP_AVG",
+  "dataType": "double",
+  "sourceColumn": "TURNOVER_EXP_AVG",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "7689b7d3-952d-4ffa-bf19-6788381105fc",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "TURNOVER_EXP_AVG"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz turnover EXP AVG\",\"en-US\":\"en turnover EXP AVG\"}"
+    }
+  ]
+}

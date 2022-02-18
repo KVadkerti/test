@@ -1,0 +1,30 @@
+{
+  "name": "TITLE",
+  "dataType": "string",
+  "sourceColumn": "TITLE",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "2d279b2d-8e23-42aa-a555-f36da71e0c79",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "TITLE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz title\",\"en-US\":\"en title\"}"
+    }
+  ]
+}

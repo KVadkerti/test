@@ -1,0 +1,26 @@
+{
+  "name": "LDOW_FLAG",
+  "dataType": "string",
+  "sourceColumn": "LDOW_FLAG",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "4d9590c0-fbeb-4330-8519-d633e44b2add",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz ldow flag\",\"en-US\":\"en ldow flag\"}"
+    }
+  ]
+}

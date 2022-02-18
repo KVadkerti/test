@@ -1,0 +1,30 @@
+{
+  "name": "ACTIVE_PPV_COUNT_OTHER",
+  "dataType": "double",
+  "sourceColumn": "ACTIVE_PPV_COUNT_OTHER",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "edc0e4ad-fd05-44e4-9d33-adb038349edd",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "ACTIVE_PPV_COUNT_OTHER"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz active ppv COUNT OTHER\",\"en-US\":\"en active ppv COUNT OTHER\"}"
+    }
+  ]
+}

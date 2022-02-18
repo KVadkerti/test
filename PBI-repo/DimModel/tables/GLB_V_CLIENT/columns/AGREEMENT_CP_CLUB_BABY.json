@@ -1,0 +1,30 @@
+{
+  "name": "AGREEMENT_CP_CLUB_BABY",
+  "dataType": "string",
+  "sourceColumn": "AGREEMENT_CP_CLUB_BABY",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "b8ab2c19-ec6b-4544-a5bc-2ab1c66bdd96",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "AGREEMENT_CP_CLUB_BABY"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz agreement cp club baby\",\"en-US\":\"en agreement cp club baby\"}"
+    }
+  ]
+}

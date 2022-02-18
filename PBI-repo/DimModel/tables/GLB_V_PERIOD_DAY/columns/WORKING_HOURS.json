@@ -1,0 +1,26 @@
+{
+  "name": "WORKING_HOURS",
+  "dataType": "double",
+  "sourceColumn": "WORKING_HOURS",
+  "sourceProviderType": "Int16",
+  "lineageTag": "846c8e53-4654-4351-9d16-c4bd6d879beb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz working HOURS\",\"en-US\":\"en working HOURS\"}"
+    }
+  ]
+}

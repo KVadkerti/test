@@ -1,0 +1,30 @@
+{
+  "name": "PHARMACY_ID",
+  "dataType": "double",
+  "sourceColumn": "PHARMACY_ID",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "05e3628d-aacf-4d52-a354-e52b4db75809",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "PHARMACY_ID"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz pharmacy ID\",\"en-US\":\"en pharmacy ID\"}"
+    }
+  ]
+}

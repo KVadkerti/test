@@ -1,0 +1,32 @@
+{
+  "name": "IDENTITY_ID",
+  "dataType": "double",
+  "isNullable": false,
+  "sourceColumn": "IDENTITY_ID",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "be34d46c-082b-4610-9c8d-8227e159601e",
+  "isDefaultLabel": true,
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "IDENTITY_ID"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz IDENTITY ID\",\"en-US\":\"en IDENTITY ID\"}"
+    }
+  ]
+}

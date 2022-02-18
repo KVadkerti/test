@@ -1,0 +1,30 @@
+{
+  "name": "EXPEDITION_EV_OTC_AMOUNT",
+  "dataType": "double",
+  "sourceColumn": "EXPEDITION_EV_OTC_AMOUNT",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "dfe25a57-8e4b-4fb6-8294-81f7fb1dfcc8",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "EXPEDITION_EV_OTC_AMOUNT"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz expedition ev otc amount\",\"en-US\":\"en expedition ev otc amount\"}"
+    }
+  ]
+}

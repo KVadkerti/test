@@ -1,0 +1,30 @@
+{
+  "name": "SAVING_OTC",
+  "dataType": "double",
+  "sourceColumn": "SAVING_OTC",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "b90fd785-a86c-4d02-8fc8-5715e231c72c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "SAVING_OTC"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz saving otc\",\"en-US\":\"en saving otc\"}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "PURCHASE_FREQUENCY",
+  "dataType": "double",
+  "sourceColumn": "PURCHASE_FREQUENCY",
+  "sourceProviderType": "Decimal(38, 0)",
+  "lineageTag": "209dcb58-7687-4a8a-b098-fcabab4af75c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "PURCHASE_FREQUENCY"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz purchase frequency\",\"en-US\":\"en purchase frequency\"}"
+    }
+  ]
+}

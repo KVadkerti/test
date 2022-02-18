@@ -1,0 +1,30 @@
+{
+  "name": "AGREEMENT_ESHOP_SMS",
+  "dataType": "string",
+  "sourceColumn": "AGREEMENT_ESHOP_SMS",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "af9e5b6d-6d7a-4b22-bbb7-b7e5c39e0a4b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "AGREEMENT_ESHOP_SMS"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz agreement eshop sms\",\"en-US\":\"en agreement eshop sms\"}"
+    }
+  ]
+}

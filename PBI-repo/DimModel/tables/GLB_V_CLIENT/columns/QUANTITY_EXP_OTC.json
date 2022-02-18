@@ -1,0 +1,30 @@
+{
+  "name": "QUANTITY_EXP_OTC",
+  "dataType": "double",
+  "sourceColumn": "QUANTITY_EXP_OTC",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "fef4b8cf-2dbc-4ccd-8c19-54155297cc0a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "QUANTITY_EXP_OTC"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz quantity EXP otc\",\"en-US\":\"en quantity EXP otc\"}"
+    }
+  ]
+}

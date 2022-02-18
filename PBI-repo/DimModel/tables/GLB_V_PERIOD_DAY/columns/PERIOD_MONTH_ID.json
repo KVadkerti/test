@@ -1,0 +1,28 @@
+{
+  "name": "PERIOD_MONTH_ID",
+  "dataType": "dateTime",
+  "isNullable": false,
+  "sourceColumn": "PERIOD_MONTH_ID",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "fa377032-875a-4c5e-b0f3-d6f2d411fe17",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz PERIOD MONTH ID\",\"en-US\":\"en PERIOD MONTH ID\"}"
+    }
+  ]
+}

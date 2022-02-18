@@ -1,0 +1,30 @@
+{
+  "name": "COMPANY_EMAIL",
+  "dataType": "string",
+  "sourceColumn": "COMPANY_EMAIL",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "b0afeff8-9d89-4862-92cb-67cdebeb12e8",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "COMPANY_EMAIL"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz company email\",\"en-US\":\"en company email\"}"
+    }
+  ]
+}

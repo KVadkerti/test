@@ -1,0 +1,30 @@
+{
+  "name": "FUNCTION_NAMES",
+  "dataType": "string",
+  "sourceColumn": "FUNCTION_NAMES",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "529da74f-b4d5-48bf-a337-e0b4ac778595",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "FUNCTION_NAMES"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz FUNCTION names\",\"en-US\":\"en FUNCTION names\"}"
+    }
+  ]
+}

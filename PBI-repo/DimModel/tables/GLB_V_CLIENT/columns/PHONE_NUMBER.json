@@ -1,0 +1,30 @@
+{
+  "name": "PHONE_NUMBER",
+  "dataType": "double",
+  "sourceColumn": "PHONE_NUMBER",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "63fe20a3-c313-4ae1-b669-8a84c778e4bb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "PHONE_NUMBER"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz phone NUMBER\",\"en-US\":\"en phone NUMBER\"}"
+    }
+  ]
+}

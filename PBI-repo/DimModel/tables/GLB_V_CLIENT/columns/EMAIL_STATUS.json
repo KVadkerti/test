@@ -1,0 +1,30 @@
+{
+  "name": "EMAIL_STATUS",
+  "dataType": "double",
+  "sourceColumn": "EMAIL_STATUS",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "0af94e92-d3f9-42f6-abd0-ff1298549292",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "EMAIL_STATUS"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz email status\",\"en-US\":\"en email status\"}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "INS_COMPANY_ID",
+  "dataType": "double",
+  "sourceColumn": "INS_COMPANY_ID",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "c50b718b-692b-41b1-b119-3d73958981e6",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "INS_COMPANY_ID"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz ins company ID\",\"en-US\":\"en ins company ID\"}"
+    }
+  ]
+}

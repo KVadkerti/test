@@ -1,0 +1,30 @@
+{
+  "name": "PPV_ID",
+  "dataType": "double",
+  "sourceColumn": "PPV_ID",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "08d2ec9a-f786-430b-9e8f-5815987fa04c",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "PPV_ID"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz ppv ID\",\"en-US\":\"en ppv ID\"}"
+    }
+  ]
+}

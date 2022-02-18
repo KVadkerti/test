@@ -1,0 +1,31 @@
+{
+  "name": "BC_DUEDATE",
+  "dataType": "dateTime",
+  "sourceColumn": "BC_DUEDATE",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "9b4f1b4f-4458-47bc-b46e-4a533d6cddc5",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "BC_DUEDATE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz bc duedate\",\"en-US\":\"en bc duedate\"}"
+    }
+  ]
+}

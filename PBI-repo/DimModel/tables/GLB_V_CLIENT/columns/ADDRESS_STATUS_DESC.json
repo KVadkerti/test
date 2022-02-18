@@ -1,0 +1,30 @@
+{
+  "name": "ADDRESS_STATUS_DESC",
+  "dataType": "string",
+  "sourceColumn": "ADDRESS_STATUS_DESC",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "b93333bb-ca7a-4247-a156-e7bd5b513c56",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "ADDRESS_STATUS_DESC"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz address status DESC\",\"en-US\":\"en address status DESC\"}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "MARITAL_STATUS_NAME",
+  "dataType": "string",
+  "sourceColumn": "MARITAL_STATUS_NAME",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "bb17e155-ea52-4adf-81cd-a9cf7c1b1e55",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "MARITAL_STATUS_NAME"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz marital status NAME\",\"en-US\":\"en marital status NAME\"}"
+    }
+  ]
+}

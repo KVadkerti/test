@@ -1,0 +1,30 @@
+{
+  "name": "MARITAL_STATUS_ID",
+  "dataType": "string",
+  "sourceColumn": "MARITAL_STATUS_ID",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "d0ad6462-68ec-4f52-a824-2b6901b1f2eb",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "MARITAL_STATUS_ID"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz marital status ID\",\"en-US\":\"en marital status ID\"}"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "FLAG_LOYALTY_PROGRAM_KEY",
+  "dataType": "string",
+  "sourceColumn": "FLAG_LOYALTY_PROGRAM_KEY",
+  "sourceProviderType": "Char",
+  "lineageTag": "f4e33437-e73e-4137-883a-ee6705f05658",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz flag loyalty PROGRAM KEY\",\"en-US\":\"en flag loyalty PROGRAM KEY\"}"
+    }
+  ]
+}

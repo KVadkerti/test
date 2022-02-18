@@ -1,0 +1,31 @@
+{
+  "name": "BC_FIRSTWEEK",
+  "dataType": "dateTime",
+  "sourceColumn": "BC_FIRSTWEEK",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "fdc06173-b716-4907-96ca-590ed24c375b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "BC_FIRSTWEEK"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz bc firstweek\",\"en-US\":\"en bc firstweek\"}"
+    }
+  ]
+}

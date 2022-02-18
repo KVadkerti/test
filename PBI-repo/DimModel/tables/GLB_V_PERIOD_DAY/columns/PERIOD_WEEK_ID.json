@@ -1,0 +1,28 @@
+{
+  "name": "PERIOD_WEEK_ID",
+  "dataType": "dateTime",
+  "isNullable": false,
+  "sourceColumn": "PERIOD_WEEK_ID",
+  "formatString": "General Date",
+  "sourceProviderType": "Date",
+  "lineageTag": "7678f0b9-73c8-47a4-ba46-d0199a7917b7",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"1029\" Group=\"GeneralDateTimeLong\" FormatString=\"G\" /></DateTimes></Format>"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "DateTime#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz PERIOD week ID\",\"en-US\":\"en PERIOD week ID\"}"
+    }
+  ]
+}

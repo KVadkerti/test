@@ -1,0 +1,30 @@
+{
+  "name": "EMAIL_ACTIVITY_ESHOP",
+  "dataType": "double",
+  "sourceColumn": "EMAIL_ACTIVITY_ESHOP",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "f7086b69-e0b1-4e6e-aae0-30e07411b4a9",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "EMAIL_ACTIVITY_ESHOP"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz email activity eshop\",\"en-US\":\"en email activity eshop\"}"
+    }
+  ]
+}

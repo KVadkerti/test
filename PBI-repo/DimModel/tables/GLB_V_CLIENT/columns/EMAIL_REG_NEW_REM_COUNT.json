@@ -1,0 +1,30 @@
+{
+  "name": "EMAIL_REG_NEW_REM_COUNT",
+  "dataType": "double",
+  "sourceColumn": "EMAIL_REG_NEW_REM_COUNT",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "3889f41d-075b-4adc-8ce7-c2d8a1814ede",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "EMAIL_REG_NEW_REM_COUNT"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz email reg NEW REM COUNT\",\"en-US\":\"en email reg NEW REM COUNT\"}"
+    }
+  ]
+}

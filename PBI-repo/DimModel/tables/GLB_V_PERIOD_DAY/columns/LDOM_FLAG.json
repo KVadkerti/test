@@ -1,0 +1,26 @@
+{
+  "name": "LDOM_FLAG",
+  "dataType": "string",
+  "sourceColumn": "LDOM_FLAG",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "7d77bcc4-4180-4005-b975-9b84768db5c8",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz ldom flag\",\"en-US\":\"en ldom flag\"}"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "CLIENT_TYPE_GR_ID_OTC_2",
+  "dataType": "double",
+  "sourceColumn": "CLIENT_TYPE_GR_ID_OTC_2",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "5141ffee-5097-4799-8997-3a42be844083",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CLIENT_TYPE_GR_ID_OTC_2"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz CLIENT TYPE gr ID otc 2\",\"en-US\":\"en CLIENT TYPE gr ID otc 2\"}"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "CLIENT_STATUS_KEY",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "CLIENT_STATUS_KEY",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "31f3328f-5d02-4037-8647-d7b952511199",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz CLIENT status KEY\",\"en-US\":\"en CLIENT status KEY\"}"
+    }
+  ]
+}

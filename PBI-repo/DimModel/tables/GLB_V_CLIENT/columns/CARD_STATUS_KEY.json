@@ -1,0 +1,27 @@
+{
+  "name": "CARD_STATUS_KEY",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "CARD_STATUS_KEY",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "4cca5bcd-b4d6-46ad-be16-dbe987395ce6",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz card status KEY\",\"en-US\":\"en card status KEY\"}"
+    }
+  ]
+}

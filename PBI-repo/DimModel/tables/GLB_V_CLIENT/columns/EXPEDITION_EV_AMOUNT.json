@@ -1,0 +1,30 @@
+{
+  "name": "EXPEDITION_EV_AMOUNT",
+  "dataType": "double",
+  "sourceColumn": "EXPEDITION_EV_AMOUNT",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "a3f48470-4911-4de7-8d3f-3efa0e1ef414",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "EXPEDITION_EV_AMOUNT"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz expedition ev amount\",\"en-US\":\"en expedition ev amount\"}"
+    }
+  ]
+}

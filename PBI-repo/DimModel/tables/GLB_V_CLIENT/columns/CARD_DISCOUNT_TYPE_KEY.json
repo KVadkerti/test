@@ -1,0 +1,27 @@
+{
+  "name": "CARD_DISCOUNT_TYPE_KEY",
+  "dataType": "string",
+  "isNullable": false,
+  "sourceColumn": "CARD_DISCOUNT_TYPE_KEY",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "262e861d-ac6c-4efa-be68-2f455278e601",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz card discount TYPE KEY\",\"en-US\":\"en card discount TYPE KEY\"}"
+    }
+  ]
+}

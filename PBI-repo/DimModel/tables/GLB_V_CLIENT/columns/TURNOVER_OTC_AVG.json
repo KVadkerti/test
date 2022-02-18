@@ -1,0 +1,30 @@
+{
+  "name": "TURNOVER_OTC_AVG",
+  "dataType": "double",
+  "sourceColumn": "TURNOVER_OTC_AVG",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "0b1cb136-cef6-4e9b-a9f7-3fbe3896f02b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "TURNOVER_OTC_AVG"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz turnover otc AVG\",\"en-US\":\"en turnover otc AVG\"}"
+    }
+  ]
+}

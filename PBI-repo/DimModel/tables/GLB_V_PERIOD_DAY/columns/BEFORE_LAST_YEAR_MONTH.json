@@ -1,0 +1,26 @@
+{
+  "name": "BEFORE_LAST_YEAR_MONTH",
+  "dataType": "string",
+  "sourceColumn": "BEFORE_LAST_YEAR_MONTH",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "c8c3ecb8-8ddc-44ef-83ca-de6a3784dd1a",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz BEFORE LAST YEAR MONTH\",\"en-US\":\"en BEFORE LAST YEAR MONTH\"}"
+    }
+  ]
+}

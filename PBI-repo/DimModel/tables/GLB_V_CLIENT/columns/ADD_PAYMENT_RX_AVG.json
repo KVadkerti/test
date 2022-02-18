@@ -1,0 +1,30 @@
+{
+  "name": "ADD_PAYMENT_RX_AVG",
+  "dataType": "double",
+  "sourceColumn": "ADD_PAYMENT_RX_AVG",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "9b423772-da99-4f71-b7ed-278f5dd0d348",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "ADD_PAYMENT_RX_AVG"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz ADD payment rx AVG\",\"en-US\":\"en ADD payment rx AVG\"}"
+    }
+  ]
+}

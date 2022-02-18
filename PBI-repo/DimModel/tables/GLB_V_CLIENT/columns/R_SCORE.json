@@ -1,0 +1,30 @@
+{
+  "name": "R_SCORE",
+  "dataType": "double",
+  "sourceColumn": "R_SCORE",
+  "sourceProviderType": "Decimal(38, 0)",
+  "lineageTag": "9433ea41-05b2-4f32-a37f-0987fd10c82b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "R_SCORE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz R score\",\"en-US\":\"en R score\"}"
+    }
+  ]
+}

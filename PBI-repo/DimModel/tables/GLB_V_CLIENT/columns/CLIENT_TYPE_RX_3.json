@@ -1,0 +1,30 @@
+{
+  "name": "CLIENT_TYPE_RX_3",
+  "dataType": "string",
+  "sourceColumn": "CLIENT_TYPE_RX_3",
+  "sourceProviderType": "Varchar2",
+  "lineageTag": "5692b3da-d94d-4231-ad03-444d7f5d3ee7",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "CLIENT_TYPE_RX_3"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "String#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz CLIENT TYPE rx 3\",\"en-US\":\"en CLIENT TYPE rx 3\"}"
+    }
+  ]
+}

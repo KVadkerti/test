@@ -1,0 +1,27 @@
+{
+  "name": "REGISTRATION_APPL_KEY",
+  "dataType": "double",
+  "isNullable": false,
+  "sourceColumn": "REGISTRATION_APPL_KEY",
+  "sourceProviderType": "Decimal(38, 127)",
+  "lineageTag": "c0641872-278a-4567-aaf1-6d0c7dca00cc",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz registration appl KEY\",\"en-US\":\"en registration appl KEY\"}"
+    }
+  ]
+}

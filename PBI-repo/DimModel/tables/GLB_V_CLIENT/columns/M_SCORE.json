@@ -1,0 +1,30 @@
+{
+  "name": "M_SCORE",
+  "dataType": "double",
+  "sourceColumn": "M_SCORE",
+  "sourceProviderType": "Decimal(38, 0)",
+  "lineageTag": "105105ec-e8e6-4c3f-b641-d94c935ede4b",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "M_SCORE"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz M score\",\"en-US\":\"en M score\"}"
+    }
+  ]
+}

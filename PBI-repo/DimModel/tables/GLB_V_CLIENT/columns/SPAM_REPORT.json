@@ -1,0 +1,30 @@
+{
+  "name": "SPAM_REPORT",
+  "dataType": "double",
+  "sourceColumn": "SPAM_REPORT",
+  "sourceProviderType": "Int16",
+  "lineageTag": "e1e7ee74-1d63-4a78-9162-48c0c1d1f099",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "User"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    },
+    {
+      "name": "PBI_NameAtRefresh",
+      "value": "SPAM_REPORT"
+    },
+    {
+      "name": "DataTypeAtRefresh",
+      "value": "Double#####not a type"
+    },
+    {
+      "name": "TabularEditor_TranslatedNames",
+      "value": "{\"cs-CZ\":\"cz spam REPORT\",\"en-US\":\"en spam REPORT\"}"
+    }
+  ]
+}
