@@ -1,1 +1,1 @@
-PrvnÃ­ testovacÃ­ CI
+První testovací CI
