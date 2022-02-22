@@ -10,10 +10,64 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+
+- task: CopyFiles@2
+
+  displayName: 'Copy Files to: StagingArtifact (Reports)'
+
+  inputs:
+
+    SourceFolder: PBI/Reports
+
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+
+    OverWrite: true
+
+- task: CopyFiles@2
+
+  displayName: 'Copy Files to: StagingArtifact (Scripts)'
+
+  inputs:
+
+    SourceFolder: Scripts
+
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+
+    OverWrite: true
 
 - script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+   echo "Structure of work folder of this pipeline:"
+   
+   tree $(Agent.WorkFolder)\1 /f
+   
+   echo "Build.ArtifactStagingDirectory:" 
+   
+   echo "$(Build.ArtifactStagingDirectory)"
+   
+   echo "Build.BinariesDirectory:" 
+   
+   echo "$(Build.BinariesDirectory)"
+   
+   echo "Build.SourcesDirectory:"
+   
+   echo "$(Build.SourcesDirectory)"
+   
+
+  displayName: 'Command Line Script: Structure of work folder'
+
+- powershell: |
+   # Write your PowerShell commands here.
+   
+   
+   #Get-ChildItem -Path $Build.ArtifactStagingDirectory -recurse
+   
+   
+   Get-ChildItem -Path $Build.SourcesDirectory -recurse
+   
+
+  displayName: 'PowerShell Script'
+
+
+- task: PublishBuildArtifacts@1
+
+  displayName: 'Publish Artifact: drop'
