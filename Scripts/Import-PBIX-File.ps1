@@ -1,5 +1,6 @@
 ﻿#Manula connect to account
 #Connect-PowerBIServiceAccount | Out-Null
+$FilePath = "$Env:SYSTEM_DEFAULTWORKINGDIRECTORY\$Env:RELEASE_PRIMARYARTIFACTSOURCEALIAS\Publish\"
 
 $workspaceName = "CZE BI (TEST)"
 $ReportName = "DimModel.pbix"
