@@ -13,4 +13,4 @@ $import = New-PowerBIReport -Path "$FilePath\$ReportName" -Workspace $workspace 
 
 $import | select *
 
-Disconnect-PowerBIServiceAccount
+#Disconnect-PowerBIServiceAccount

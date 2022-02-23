@@ -1,4 +1,4 @@
-﻿$PSScript = "C:\_SCRIPTS\LoadTest\cmd"
+﻿#$PSScript = "C:\_SCRIPTS\LoadTest\cmd"
 
 write-host "Install scripts :"
 
@@ -6,6 +6,6 @@ write-host "Install scripts :"
 #&"$PSScript\2.ps1"
 #&"$PSScript\3.ps1"
 
-&"$PSScript\PSconnect.ps1"
-&"$PSScript\Import-PBIX-File.ps1"
-&"$PSScript\PSdisconnect.ps1"
+&"$FilePath\PSconnect.ps1"
+&"$FilePath\Import-PBIX-File.ps1"
+&"$FilePath\PSdisconnect.ps1"
