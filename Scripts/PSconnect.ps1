@@ -15,7 +15,7 @@ Write-Host "Client Id " $env:clientId;
 #Write-Host "Client Secret" $(clientsecret)
 
 $applicationId = $env:clientId;
-$clientsec = "$(clientsecret)" | ConvertTo-SecureString -AsPlainText -Force
+$clientsec = "$(env:clientsecret)" | ConvertTo-SecureString -AsPlainText -Force
 
 $credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $applicationId, $clientsec
 
