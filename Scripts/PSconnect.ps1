@@ -1,10 +1,24 @@
-﻿write-host "Conected to Power BI"
+﻿#write-host "Conected to Power BI"
+#Write-Host "Client Id " $env:clientId;
+#Write-Host "Client Secret" $(clientsecret)
+
+#$User = $env:clientId;
+#$clientsec = "$(clientsecret)" | ConvertTo-SecureString -AsPlainText -Forc#e
+
+#$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $clientsec
+
+#Connect-PowerBIServiceAccount -Credential $Credential
+
+
 Write-Host "Client Id " $env:clientId;
+
 Write-Host "Client Secret" $(clientsecret)
 
-$User = $env:clientId;
+$applicationId = $env:clientId;
 $clientsec = "$(clientsecret)" | ConvertTo-SecureString -AsPlainText -Force
 
-$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $clientsec
+$credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $applicationId, $clientsec 
 
-Connect-PowerBIServiceAccount -Credential $Credential
+Connect-PowerBIServiceAccount -Credential $credential 
+
+#Disconnect-PowerBIServiceAccount
