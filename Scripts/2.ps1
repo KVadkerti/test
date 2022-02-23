@@ -1,0 +1,1 @@
+﻿write-host "Skript 2"
