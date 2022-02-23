@@ -1,6 +1,10 @@
 ﻿write-host "Install scripts :"
 #write-host $FilePath
-write-host $Env:BUILD_SOURCESDIRECTORY
+Write-Host $Env:SYSTEM_DEFAULTWORKINGDIRECTORY
+Write-Host $Env:RELEASE_PRIMARYARTIFACTSOURCEALIAS
+$FilePath = "$Env:SYSTEM_DEFAULTWORKINGDIRECTORY/$Env:RELEASE_PRIMARYARTIFACTSOURCEALIAS/Publish/"
+
+Write-Host $FilePath
 #write-host $File
 
 #&"$PSScript\1.ps1"
