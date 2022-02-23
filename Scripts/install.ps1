@@ -1,7 +1,7 @@
 ﻿write-host "Install scripts :"
-write-host $FilePath
-write-host $(System.DefaultWorkingDirectory)
-write-host $File
+#write-host $FilePath
+write-host $Env:BUILD_SOURCESDIRECTORY
+#write-host $File
 
 #&"$PSScript\1.ps1"
 #&"$PSScript\2.ps1"
