@@ -1,0 +1,3 @@
+TabularEditor.exe "C:\_SCRIPTS\CLI\rep\DQ5.bim" -A -G
+
+TabularEditor.exe "C:\_SCRIPTS\CLI\rep\DQ5.bim" -DEPLOY "Data Source=powerbi://api.powerbi.com/v1.0/myorg/CZE BI (TEST);User ID=extVadkerti@dr-max.global;Password=******" "DQ5_CHNG"
