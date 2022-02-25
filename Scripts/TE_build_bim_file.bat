@@ -4,4 +4,4 @@ REM D:\a\1\s\TabularEditor\TabularEditor.exe "D:\a\1\a\DimModel" -B "D:\a\1\a\Ne
 
 cd D:\a\1\s\TabularEditor\
 
-TabularEditor.exe "D:\a\1\a\DimModel" -B "D:\a\1\a\NewDimModel.bim"
+TabularEditor.exe "$(Build.ArtifactStagingDirectory)\DimModel" -B "D:\a\1\a\NewDimModel.bim"
