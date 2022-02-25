@@ -8,6 +8,6 @@ Write-Host "Build.ArtifactStagingDirectory: " $Env:BUILD_ARTIFACTSTAGINGDIRECTOR
 
 $p = Start-Process -filePath $Env:BUILD_SOURCESDIRECTORY\TabularEditor\TabularEditor.exe `
        -Wait -NoNewWindow -PassThru `
-       -argumentList "`"$Env:BUILD_ARTIFACTSTAGINGDIRECTORY\NewDimModel.bim`" -DEPLOY `"$PBIConnection`" `"NewDim`""
+       -argumentList "`"$Env:BUILD_ARTIFACTSTAGINGDIRECTORY\NewDimModel.bim`" -DEPLOY `"$(PBIConnection)`" `"NewDim`""
 
 exit $p.ExitCode
