@@ -1,6 +1,7 @@
 Write-Host "Deploy Power BI Dataset"
 Write-Host "Build.SourcesDirectory: " $Env:BUILD_SOURCESDIRECTORY
 Write-Host "Build.ArtifactStagingDirectory: " $Env:BUILD_ARTIFACTSTAGINGDIRECTORY
+Write-Host "Power BI Connection: "$Env:PBICONNECTION
 #$(Build.SourcesDirectory)
 #$(Build.ArtifactStagingDirectory)
 
@@ -8,6 +9,6 @@ Write-Host "Build.ArtifactStagingDirectory: " $Env:BUILD_ARTIFACTSTAGINGDIRECTOR
 
 $p = Start-Process -filePath $Env:BUILD_SOURCESDIRECTORY\TabularEditor\TabularEditor.exe `
        -Wait -NoNewWindow -PassThru `
-       -argumentList "`"$Env:BUILD_ARTIFACTSTAGINGDIRECTORY\NewDimModel.bim`" -DEPLOY `"$(PBIConnection)`" `"NewDim`""
+       -argumentList "`"$Env:BUILD_ARTIFACTSTAGINGDIRECTORY\NewDimModel.bim`" -DEPLOY `"$Env:PBICONNECTION`" `"NewDim`""
 
 exit $p.ExitCode
