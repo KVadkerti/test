@@ -6,6 +6,6 @@ Write-Host "Build.ArtifactStagingDirectory: " $Env:BUILD_ARTIFACTSTAGINGDIRECTOR
 
 $p = Start-Process -filePath $Env:BUILD_SOURCESDIRECTORY\TabularEditor\TabularEditor.exe `
        -Wait -NoNewWindow -PassThru `
-       -argumentList "`"$Env:BUILD_ARTIFACTSTAGINGDIRECTORY\DQ5.bim`" -AX `"$Env:BUILD_ARTIFACTSTAGINGDIRECTORY\BPARules.json`" -G"
+       -argumentList "`"$Env:BUILD_ARTIFACTSTAGINGDIRECTORY\DQ5.bim`" -AX `"$Env:BUILD_ARTIFACTSTAGINGDIRECTORY\BPARules.json`" -T `"testbpa.trv`" -V"
 
 exit $p.ExitCode
