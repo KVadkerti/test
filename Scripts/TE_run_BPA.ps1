@@ -1,7 +1,6 @@
 Write-Host "Run a Best Practice Analysis"
-
-Write-Host $Env:BUILD_SOURCESDIRECTORY
-Write-Host $Env:BUILD_ARTIFACTSTAGINGDIRECTORY
+Write-Host "Build.SourcesDirectory: " $Env:BUILD_SOURCESDIRECTORY
+Write-Host "Build.ArtifactStagingDirectory: " $Env:BUILD_ARTIFACTSTAGINGDIRECTORY
 #$(Build.SourcesDirectory
 #$(Build.ArtifactStagingDirectory)
 
